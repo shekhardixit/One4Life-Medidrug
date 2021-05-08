@@ -24,5 +24,11 @@
     background-color: #000000ea;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
-    color: rgba(255, 255, 255, 0.973);
+    color: rgba(23, 66, 255, 0.973);
+}
+.footer .a{
+    color: rgba(23, 66, 255, 0.973);
+}
+tbody{
+    color: rgba(23, 66, 255, 0.973);
 }
