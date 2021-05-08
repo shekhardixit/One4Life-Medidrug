@@ -20,6 +20,10 @@
     margin-left: 42rem;
 }
 
+.navbar-dark{
+	background-color: #040a1675;
+}
+
 .row-main{
     margin:0px auto;
     padding:0px;
@@ -33,4 +37,15 @@
 }
 tbody, .footer .a, .btn-social-icon{
     color: #007bff;
+}
+
+.fa {
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 0.9em;
+    width: 0px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 3.5px 5px 5px;
+    object-fit: cover;
 }
