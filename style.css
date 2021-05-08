@@ -26,9 +26,6 @@
     padding: 20px 0px 20px 0px;
     color: rgba(23, 66, 255, 0.973);
 }
-.footer .a{
-    color: rgba(23, 66, 255, 0.973);
-}
-tbody{
+tbody, .footer .a, .btn-social-icon{
     color: rgba(23, 66, 255, 0.973);
 }
