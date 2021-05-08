@@ -4,7 +4,7 @@
 .jumbotron {
     width: 100%;
 	height: 100vh;
-	background-color: #000;
+    background-image: url('img/Jumbo.jpg');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	position: relative;
