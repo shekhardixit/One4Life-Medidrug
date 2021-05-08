@@ -17,3 +17,10 @@
 .navbar-collapse {
     margin-left: 42rem;
 }
+
+.footer{
+    background-color: #000000ea;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    color: rgba(255, 255, 255, 0.973);
+}
