@@ -7,6 +7,8 @@
     background-image: url('img/Jumbo.jpg');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 54%, 79% 100%, 0 48%);
+    clip-path: polygon(0 0, 100% 0, 100% 54%, 79% 100%, 0 48%);
 	position: relative;
     font-family: 'Cedarville Cursive', cursive;
     font-weight:normal;
